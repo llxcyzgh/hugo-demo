@@ -1,0 +1,23 @@
+[readmore]
+other = "查看更多"
+
+[translations]
+other = "Translations"
+
+[error404]
+other = "您所访问的页面不存在"
+
+[yourname]
+other = "您的姓名"
+
+[youremail]
+other = "您的邮箱地址"
+
+[subject]
+other = "主题"
+
+[yourmessage]
+other = "邮件内容"
+
+[sendnow]
+other = "发送"
