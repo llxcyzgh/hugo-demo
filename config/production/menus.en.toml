@@ -1,54 +1,54 @@
 # main menu
 [[main]]
-name = "主页"
-url = "/"
+name = "Home"
+url = ""
 weight = 1
 
 [[main]]
-name = "博客"
+name = "Blog"
 url = "blog"
 weight = 2
 
 [[main]]
-name = "价格"
+name = "Pricing"
 url = "pricing"
 weight = 3
 
 [[main]]
-name = "联系我们"
+name = "Contact"
 url = "contact"
 weight = 4
 
 [[main]]
-name = "常见问题"
+name = "FAQ"
 url = "faq"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "关于我们"
+name = "About Us"
 url = "#"
 
 [[footer_left]]
-name = "快速开始"
+name = "Quick Start"
 url = "#"
 
 [[footer_left]]
-name = "价格"
+name = "Pricing"
 url = "pricing"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "价格"
+name = "Pricing"
 url = "pricing"
 
 [[footer_middle]]
-name = "平台"
+name = "Platform"
 url = "#"
 
 [[footer_middle]]
-name = "特色"
+name = "Features"
 url = "#"
 
 # footer menu right
